@@ -1,7 +1,7 @@
 Hi 👋 My name is Dan Graziano
 =============================
 
-Software Engineer
+MSCS Student | Future Software Engineer
 -------------
 
 * 🌍  I'm based in the Greater Boston area 
