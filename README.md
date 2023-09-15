@@ -7,12 +7,12 @@ MSCS Student | Future Software Engineer
 * 🌍  I'm based in the Greater Boston area 
 * 🖥️  You can check out my resume at [dangraziano.com](http://dangraziano.com)
 * ✉️  You can contact me at [dan@dangraziano.com](mailto:dan@dangraziano.com)
-* 🧠  I'm currently learning Android development and SQL/MySQL
+* 🧠  I'm currently learning advanced algorithms and software engineering
 
 About Me
 -------------
 I spent more than 10 years working in technology. I began my career as a technology journalist and then moved into public relations. 
-I've written about products, I've helped launch products, and now I am interested in building the next-generation of products.
+I've written about products, helped launch products, and now I am interested in building the next generation of products.
 
 ### Skills
 
