@@ -1,13 +1,13 @@
 Hi 👋 My name is Dan Graziano
 =============================
 
-MSCS Student | Future Software Engineer
+MSCS Student @ Northeastern University | Future Software Engineer
 -------------
 
 * 🌍  I'm based in the Greater Boston area 
 * 🖥️  You can check out my resume at [dangraziano.com](http://dangraziano.com)
-* ✉️  You can contact me at [dan@dangraziano.com](mailto:dan@dangraziano.com)
-* 🧠  I'm currently learning advanced algorithms and software engineering
+* ✉️  You can contact me through the form at [dangraziano.com](http://dangraziano.com)
+* 🧠  I'm currently learning operating systems and game development
 
 About Me
 -------------
