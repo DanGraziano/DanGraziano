@@ -7,7 +7,7 @@ MSCS Student @ Northeastern University | Future Software Engineer
 * 🌍  I'm based in the Greater Boston area 
 * 🖥️  You can check out my resume at [dangraziano.com](http://dangraziano.com)
 * ✉️  You can contact me through the form at [dangraziano.com](http://dangraziano.com)
-* 🧠  I'm currently learning operating systems and game development
+* 🧠  I'm currently exploring AWS and cloud computing
 
 About Me
 -------------
